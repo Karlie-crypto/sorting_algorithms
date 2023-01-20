@@ -92,4 +92,7 @@ What you should learn from this project:
 * **KARLIE MOYO**
  - [GitHub](https://github.com/Karlie-crypto)
  - [Twitter](https://twitter.com/karlieemoyo)
-   [Cellphone](0027844775229)
+
+
+   COLLABORATION:
+   [Cellphone](+27844775229)
