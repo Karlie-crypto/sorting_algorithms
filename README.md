@@ -88,12 +88,8 @@ What you should learn from this project:
 
 ---
 
-## Author
+## Author:
 * **KARLIE MOYO**
  - [GitHub](https://github.com/Karlie-crypto)
- - [Cellphone](0027 844 775 229)
- - [Twitter](https://twitter.com/karlieemoyO)
-<<<<<<< HEAD
-=======
-~                                   
->>>>>>> 98d7239b4ac6971e622334013133cc2468a7c0e8
+ - [Twitter](https://twitter.com/karlieemoyo)
+   [Cellphone](0027844775229)
