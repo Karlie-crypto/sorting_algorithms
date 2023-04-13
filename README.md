@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/110098940/231885183-0d6efcc4-4d6a-428d-b22b-892e6a05a984.png)
+
+
+
+
 # 0x1B. C - Sorting algorithms & Big O
 
 ## Resources:books:
